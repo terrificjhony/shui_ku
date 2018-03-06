@@ -13,4 +13,5 @@
 * [\#1120 不征房产税,凭什么为什么](1120-bu-zheng-fang-chan-7a0e2c-ping-shi-yao-wei-shi-yao.md)
 * [\#860 限贷的危害](860-xian-dai-de-wei-hai.md)
 * [\#880 限购的毒药](880-xian-gou-de-du-yao.md)
+* [\#840 加息岂能降房价](840-jia-xi-qi-neng-jiang-fang-jia.md)
 
