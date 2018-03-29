@@ -13,4 +13,5 @@
 * [\#1110 帝国的砒霜---房产税](1110-di-guo-de-pi-971c-fang-chan-shui.md)
 * [\#2150 借款流基础概念](2150-jie-kuan-liu-ji-chu-gai-nian.md)
 * [\#860 限贷的危害](860-xian-dai-de-wei-hai.md)
+* [\#F1540 小人物](f1540-xiao-ren-wu.md)
 
