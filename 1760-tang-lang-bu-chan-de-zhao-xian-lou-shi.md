@@ -31,4 +31,4 @@
 安全么，靠得住么，不怕抢么。
 
 ### 参考：
-[螳螂捕蝉的朝鲜楼市](https://mp.weixin.qq.com/s?__biz=MzAxNTMxMTc0MA==&mid=2651017425&idx=1&sn=5a9f1650d0cb9e145fb5708102169cbe&chksm=807206c2b7058fd4b5a8e3c3f23f36f2bf5430db2ac77f90d9c88e3a44734baf5231f191decb&scene=0&key=0bff4a10575cdb4e527b72c2981b988877f600f3a840cacf5a52bda745dd133d17d0cb1f25e01dc9ba90290b9a1a9748862ea67226f832ab8348dc8bed44cc2519add87f34e03f31d8a09d8a445b5ded&ascene=0&uin=MTIwMjMwNDI0MQ%3D%3D&devicetype=iMac+MacBookAir7%2C2+OSX+OSX+10.11.6+build(15G18013)&version=12020010&nettype=WIFI&lang=en&fontScale=100&pass_ticket=jTy4g4Q4F04Kb1bfQGiVG9T8Fc2UVoPwYeS5A%2B%2BlTKWSM1Rt295zqFdbRJjtT4gf)
+[螳螂捕蝉的朝鲜楼市](http://t.cn/R3U3JSs)
