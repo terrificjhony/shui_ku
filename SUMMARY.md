@@ -19,4 +19,5 @@
 * [\#1760 螳螂捕蝉的朝鲜楼市](1760-tang-lang-bu-chan-de-zhao-xian-lou-shi.md)
 * [\#f670 增长在哪里](f670-zeng-chang-zai-na-li.md)
 * [\# 1830 世上再无商品房](shi-shang-zai-wu-shang-pin-fang.md)
+* [\# f1760 怎样判断最后一棒](f1760-zen-yang-pan-duan-zui-hou-yi-bang.md)
 
