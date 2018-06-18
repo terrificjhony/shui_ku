@@ -20,4 +20,5 @@
 * [\#f670 增长在哪里](f670-zeng-chang-zai-na-li.md)
 * [\# 1830 世上再无商品房](shi-shang-zai-wu-shang-pin-fang.md)
 * [\# f1760 怎样判断最后一棒](f1760-zen-yang-pan-duan-zui-hou-yi-bang.md)
+* [\#3700 天诛进阶之D算法](3700-tian-zhu-jin-jie-zhi-d-suan-fa.md)
 
