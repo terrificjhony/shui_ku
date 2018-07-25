@@ -23,5 +23,6 @@
 * [\#3700 天诛进阶之D算法](3700-tian-zhu-jin-jie-zhi-d-suan-fa.md)
 * [\#2370 一些基础财务函数](2370-yi-xie-ji-chu-cai-wu-han-shu.md)
 * [\#2000 Section 2 筑基卷总纲](2000-section-2-zhu-ji-juan-zong-gang.md)
-* [什么才是真正的财富](shi-yao-cai-shi-zhen-zheng-de-cai-fu.md)
+* [\#1570 什么才是真正的财富](shi-yao-cai-shi-zhen-zheng-de-cai-fu.md)
+* [\#1880 买房子是消费降级么](xiao-fei-jiang-ji.md)
 
