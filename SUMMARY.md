@@ -25,4 +25,5 @@
 * [\#2000 Section 2 筑基卷总纲](2000-section-2-zhu-ji-juan-zong-gang.md)
 * [\#1570 什么才是真正的财富](shi-yao-cai-shi-zhen-zheng-de-cai-fu.md)
 * [\#1880 买房子是消费降级么](xiao-fei-jiang-ji.md)
+* [\#190 职业炒家（六）----卖出](190-zhi-ye-chao-jia-ff08-liu-ff09-mai-chu.md)
 
